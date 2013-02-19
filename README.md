@@ -4,9 +4,11 @@ A leiningen 2 template for generating new projects that contain a group-id prefi
 
 ### Usage
 
-$ lein new groupid mygroup/myproj  OR
+$ lein new groupid mygroup/myproj
 
-$ lein new groupid com.mygroup/myproj  ETC.
+$ lein new groupid com.mygroup/myproj 
+
+ ETC.
 
 ### License
 
