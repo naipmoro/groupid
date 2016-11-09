@@ -1,6 +1,7 @@
 (ns {{sanitized-ns}}.core-test
-    (:use [clojure.test]
-          [{{sanitized-ns}}.core]))
+    (:require [clojure.test :refer :all]
+              [{{sanitized-ns}}.core :refer :all]))
 
 (deftest test-fix-me
-  (is (= 1 2)))
+  (testing "FIXME, I fail."
+    (is (= 1 2))))
