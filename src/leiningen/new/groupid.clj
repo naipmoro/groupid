@@ -16,6 +16,7 @@
       (println "Generating a new project named " long-name)
       (->files data
                [".gitignore"                       (render "gitignore" data)]
+               ["CHANGELOG.md"                     (render "CHANGELOG.md" data)]
                ["LICENSE"                          (render "LICENSE" data)]
                ["README.md"                        (render "README.md" data)]
                ["project.clj"                      (render "project.clj" data)]

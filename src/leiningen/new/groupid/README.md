@@ -2,10 +2,10 @@
 
 {{name}} is ...
 
-## Usage
+### Usage
 
-Clojure 1.3 or higher is required.
+Clojure 1.5 or higher is required.
 
 ### License
 
-Distributed under the Eclipse Public License, the same as Clojure.
+Distributed under the MIT License.
