@@ -1,6 +1,6 @@
 ## groupid
 
-A leiningen 2 template for generating new projects that contain a group-id prefix
+A leiningen template for generating new projects that contain a group-id prefix
 
 ### Usage
 
